@@ -4,8 +4,9 @@ I'm from Poland and I live here in Warsaw. I've started my journey as a Frontend
 
 Skills: REACT / JS / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelPamula1)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Foody App which is gonna be available on my portfolio soon 
+- 🌱 I’m currently learning React, Redux, Typescript 
 
 
-- 🔭 I’m currently working on this page. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PawelPamula1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pawelpamula003/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://pawelpamula.netlify.app)  
 

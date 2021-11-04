@@ -1,4 +1,4 @@
-![Frontend Developer](https://github.com/PawelPamula1/PawelPamula1/blob/master/Banner-Github.jpg)
+![Frontend Developer](https://github.com/PawelPamula1/PawelPamula1/blob/master/Banner%20-%20Github.jpg)
 
 ## Hi, I'm Paweł!
 

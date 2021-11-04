@@ -1,6 +1,6 @@
-### Hi there 👋, Hi, I'm Paweł Pamuła!
-#### Frontend Developer
+![Frontend Developer](https://github.com/PawelPamula1/PawelPamula1/blob/master/Banner.jpg)
 
+## Hi, I'm Paweł!
 
 I'm from Poland and I live here in Warsaw. I've started my journey as a Frontend Developer 1 year ago and since then, I really enjoy learning languages and frameworks like React. Also I get to know Wordpress development themes.
 

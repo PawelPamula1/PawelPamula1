@@ -4,4 +4,8 @@ I'm from Poland and I live here in Warsaw. I've started my journey as a Frontend
 
 Skills: REACT / JS / HTML / CSS
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawelPamula1)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on this page. 
+
